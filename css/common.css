@@ -1,0 +1,6 @@
+html,body,div,span,h1,h2,h3,p,em,img,dl,dt,dd,ol,ul,li,table,tr,th,td,form,input,select,textarea{margin:0;padding:0;border:0;}
+html body{font:14px/1.5 '微软雅黑','宋体', arial, tahoma, simsun;color:#666;background:#f6f6f6;}
+ul,ol,li{list-style:none;text-align:left;}
+img{vertical-align:top;border:0 none;}
+input,label{vertical-align:middle;}
+table{border-collapse:collapse;border-spacing:0;}
